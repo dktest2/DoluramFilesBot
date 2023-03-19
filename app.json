@@ -7,7 +7,7 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/DoluramFilesBot",
+    "repository": "https://github.com/dktest2/DoluramFilesBot",
     "success_url": "https://t.me/TechnoKrrish",
     "env": {
         "API_ID": {
@@ -67,7 +67,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
